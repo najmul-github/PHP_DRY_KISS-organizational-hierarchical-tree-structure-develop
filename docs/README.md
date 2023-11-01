@@ -93,7 +93,7 @@ To use the Organizational Hierarchy project, follow these steps:
 
 ## API Documentation
 
-The project includes a RESTful API for accessing employee and department data. Detailed API documentation is available at [API Documentation](link-to-api-docs).
+The project includes a RESTful API for accessing employee and department data. Detailed API documentation is available at [API Documentation](https://github.com/najmul-github/PHP_DRY_KISS-organizational-hierarchical-tree-structure-develop/blob/22241aaa460bca95c42aecf3eaec6b126f5c5590/docs/api-documentation.md).
 
 ## Code Samples
 
