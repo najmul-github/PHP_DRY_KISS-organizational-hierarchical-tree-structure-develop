@@ -59,6 +59,13 @@ class Login
         $_SESSION['employee_name'] = $employee['name'];
         $_SESSION['role_id'] = $employee['role_id'];
         $_SESSION['role_name'] = $employee['role_name'];
+    }    
+    
+    function isAuthenticated() 
+    {
+        // Check if the user is authenticated (e.g., based on session or tokens)
+        // Return true if authenticated, false otherwise
+        return isset($_SESSION['user_id']);
     }
     
 }
