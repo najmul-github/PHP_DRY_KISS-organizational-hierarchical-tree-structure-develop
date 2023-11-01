@@ -63,7 +63,7 @@ class Login
     
     function isAuthenticated() 
     {
-        // Check if the user is authenticated (e.g., based on session or tokens)
+        // Check if the user is authenticated (based on session)
         // Return true if authenticated, false otherwise
         return isset($_SESSION['user_id']);
     }

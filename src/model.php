@@ -175,7 +175,7 @@ class Model{
         $result = Model::get()->query($sql);
     
         while ($row = $result->fetch_assoc()) {
-            // Add the current employee to the list.
+            // Added the current employee to the list.
             $employeeList[] = $row;
     
             // Recursively call the function to find subordinates.
