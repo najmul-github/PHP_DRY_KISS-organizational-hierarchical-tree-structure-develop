@@ -54,9 +54,9 @@ Before you start, ensure that your system meets the following requirements:
 1. Clone the project repository:
     - git clone https://github.com/najmul-github/PHP_DRY_KISS-organizational-hierarchical-tree-structure-develop
 2. Navigate to the project directory:
-    ```cd organogram```
+``` cd organogram ```
 3. Install project dependencies using Composer:
-    ```composer install```
+``` composer install ```
 4. Create a database and import the SQL file from the `sql` folder.
 5. Configure your database connection in the `.env` file.
 6. Start your web server and open the project in a web browser.
